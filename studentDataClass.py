@@ -1,5 +1,7 @@
 from dataclasses import dataclass
 
+
+##this is a decorator that python of formating your class for storing the state  
 @dataclass
 class Student:
     name: str
